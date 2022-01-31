@@ -31,6 +31,13 @@ printInfo(person1);
 printInfo(person2);
 //End Small Exercise//
 
+//Medium Exercise//
+class Card {
+  constructor(rank, suit) {
+    this.rank = rank;
+    this.suit = suit;
+  }
+}
 
 
 
